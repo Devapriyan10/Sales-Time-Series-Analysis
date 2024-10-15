@@ -181,5 +181,5 @@ def analyze_data(file_path):
         print(summary)
 
 if __name__ == "__main__":
-    file_path = 'D:/sales-ai-analysis/OneDrive_2024-10-15/Sales Analytics-11(correct)/sufficient_sales_data_two_years.csv'  # Ensure this path is correct
+    file_path = 'sufficient_sales_data_two_years.csv'  # Ensure this path is correct
     analyze_data(file_path)
