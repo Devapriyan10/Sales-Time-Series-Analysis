@@ -1,6 +1,3 @@
-# Sales-Time-Series-Analysis
-### README.md
-
 # Sales Time Series Analysis
 
 ## Project Description
